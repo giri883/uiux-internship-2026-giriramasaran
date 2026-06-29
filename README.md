@@ -146,6 +146,9 @@ project1-stitch-ai/
 
 └── README.md
 
+prototype link
+    https://stitch.withgoogle.com/projects/1323121550431173175
+
 Conclusion
 
 LocalServe provides a seamless solution for discovering and booking trusted neighbourhood service providers. The application focuses on simplicity, accessibility, and efficiency, enabling users to complete service bookings quickly while maintaining a modern and professional user experience.
